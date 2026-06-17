@@ -4,8 +4,6 @@ A responsive and interactive task management application built with HTML, CSS, a
 
 #Live Demo
 
-Add your GitHub Pages link here after deployment:
-
 https://somyasingh31.github.io/Todo-list/
 
 ## Features
