@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>To-Do List App</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+
+  <body>
+    <main class="container">
+      <div class="inner-box">
+        <span class="title-icon">📝</span>
+        <h1>Task Manager</h1>
+        <p>Stay organized , Stay productive.</p>
+
+        <div class="input-section">
+          <input type="text" id="new-task" placeholder="Add your task" />
+          <button id="add-task">Add</button>
+        </div>
+        <p id="task-counter">Tasks: 0</p>
+
+        <div class="list-items">
+          <ul id="task-list"></ul>
+        </div>
+      </div>
+    </main>
+    <script src="script.js"></script>
+  </body>
+</html>
