@@ -2,6 +2,12 @@
 
 A responsive and interactive task management application built with HTML, CSS, and JavaScript. This project was developed to strengthen core JavaScript fundamentals, DOM manipulation skills, and responsive web design principles.
 
+#Live Demo
+
+Add your GitHub Pages link here after deployment:
+
+https://somyasingh31.github.io/Todo-list/
+
 ## Features
 
 - Add new tasks dynamically
